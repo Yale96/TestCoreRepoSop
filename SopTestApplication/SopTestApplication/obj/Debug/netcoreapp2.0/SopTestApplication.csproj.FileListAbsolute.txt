@@ -1,0 +1,11 @@
+H:\School\S6\Periode 1\SOP6a\Week 2\Repo for Docker\SopTestApplication\SopTestApplication\bin\Debug\netcoreapp2.0\SopTestApplication.deps.json
+H:\School\S6\Periode 1\SOP6a\Week 2\Repo for Docker\SopTestApplication\SopTestApplication\bin\Debug\netcoreapp2.0\SopTestApplication.runtimeconfig.json
+H:\School\S6\Periode 1\SOP6a\Week 2\Repo for Docker\SopTestApplication\SopTestApplication\bin\Debug\netcoreapp2.0\SopTestApplication.runtimeconfig.dev.json
+H:\School\S6\Periode 1\SOP6a\Week 2\Repo for Docker\SopTestApplication\SopTestApplication\bin\Debug\netcoreapp2.0\SopTestApplication.dll
+H:\School\S6\Periode 1\SOP6a\Week 2\Repo for Docker\SopTestApplication\SopTestApplication\bin\Debug\netcoreapp2.0\SopTestApplication.pdb
+H:\School\S6\Periode 1\SOP6a\Week 2\Repo for Docker\SopTestApplication\SopTestApplication\obj\Debug\netcoreapp2.0\SopTestApplication.csprojResolveAssemblyReference.cache
+H:\School\S6\Periode 1\SOP6a\Week 2\Repo for Docker\SopTestApplication\SopTestApplication\obj\Debug\netcoreapp2.0\SopTestApplication.csproj.CoreCompileInputs.cache
+H:\School\S6\Periode 1\SOP6a\Week 2\Repo for Docker\SopTestApplication\SopTestApplication\obj\Debug\netcoreapp2.0\SopTestApplication.AssemblyInfoInputs.cache
+H:\School\S6\Periode 1\SOP6a\Week 2\Repo for Docker\SopTestApplication\SopTestApplication\obj\Debug\netcoreapp2.0\SopTestApplication.AssemblyInfo.cs
+H:\School\S6\Periode 1\SOP6a\Week 2\Repo for Docker\SopTestApplication\SopTestApplication\obj\Debug\netcoreapp2.0\SopTestApplication.dll
+H:\School\S6\Periode 1\SOP6a\Week 2\Repo for Docker\SopTestApplication\SopTestApplication\obj\Debug\netcoreapp2.0\SopTestApplication.pdb
